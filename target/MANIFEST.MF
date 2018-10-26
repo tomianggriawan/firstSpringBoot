@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: User
+Implementation-Vendor-Id: article
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_181
+Main-Class: ${start-class}
+
